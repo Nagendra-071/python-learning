@@ -11,4 +11,4 @@ f.write('Hello,world!')
 f.close()
 # if we use with we need not to close thefile 
 #  with open('example.txt','a')
-#  f.write('Hello,world!')
+#  f.write('Hello,world!') 
