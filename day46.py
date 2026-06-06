@@ -6,4 +6,4 @@ for i in range(1,6):
     os.mkdir(f"day46/Day{i+1}")
     
     
-    
+     
