@@ -9,4 +9,4 @@ while(n:=len(numbers))>0:
     
 foods=list()
 while(food := input("What food do you like: ")) !="quit":
-    foods.append(food)
+    foods.append(food) 
