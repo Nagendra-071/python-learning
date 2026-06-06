@@ -8,4 +8,4 @@ temp.append("Aus")
 temp[2]=34
 tup=tuple(temp)
 print (tup)
-print(tup.count(34))
+print(tup.count(34)) 
