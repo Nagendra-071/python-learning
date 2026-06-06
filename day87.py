@@ -15,4 +15,4 @@ shutil.move("day46/tutorial 2/renam.py","newfile")
 shutil.rmtree("day46/tutorial 2")
 
 #file remove
-os.remove("day46/tutorial 2/renam.py")
+os.remove("day46/tutorial 2/renam.py") 
