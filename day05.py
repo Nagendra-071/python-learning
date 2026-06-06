@@ -6,4 +6,4 @@ print(7)
 hello mutli line commente
 '''
 
-print("hey",6,7,sep="^")
+print("hey",6,7,sep="^") 
