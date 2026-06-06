@@ -16,4 +16,4 @@ if(operator=="-"):
     
 if(operator=="*"):
     print(a*b)
-    
+     
