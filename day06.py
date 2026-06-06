@@ -6,4 +6,4 @@ tuple1=(("parrot","peacock"),("Lion","tiger"))
 print(tuple1)
 
 dict1={"name":"aj","age":20,"can vote":"True"}
-print(dict1)
+print(dict1) 
