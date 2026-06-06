@@ -6,4 +6,4 @@ class MyClass:
         
 a=MyClass()
 print(a.name)
-print(a._MyClass__class)
+print(a._MyClass__class) 
