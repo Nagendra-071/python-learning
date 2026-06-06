@@ -3,3 +3,4 @@ def calcution(a,b):
     print (mean)
   
 calcution(10,20)   
+ 
