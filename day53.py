@@ -24,4 +24,4 @@ from functools import reduce
 total = reduce(lambda x, y: x + y, l)
 print(total)
 
-print(l[0] is l[1])
+print(l[0] is l[1]) 
